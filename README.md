@@ -39,7 +39,3 @@ flutter pub get
 ```bash
 flutter run 
 ```
-or 
-```bash
-flutter run -d chrome
-```
