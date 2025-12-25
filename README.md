@@ -32,7 +32,7 @@ A Flutter application demonstrating user listing, search, pull-to-refresh, skele
 1. **Clone the repository**
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/MuntasirAsif/users-app
 cd interview_task
 flutter pub get
 ```
